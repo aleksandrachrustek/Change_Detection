@@ -9,6 +9,7 @@ Projekt realizowany w ramach pracy magisterskiej, którego celem jest identyfika
 * Rasterio
 * Scikit-learn
 * Matplotlib
+* HDBSCAN
 
 ## Uruchomienie
 ```bash
