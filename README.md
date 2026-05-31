@@ -10,6 +10,7 @@ Projekt realizowany w ramach pracy magisterskiej, którego celem jest identyfika
 * Scikit-learn
 * Matplotlib
 * HDBSCAN
+* Pandas
 
 ## Uruchomienie
 ```bash
